@@ -1,0 +1,1 @@
+# sample-object-size-detection
